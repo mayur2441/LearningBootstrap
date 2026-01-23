@@ -1,0 +1,65 @@
+body {
+  font-family: "Times New Roman", serif;
+  background: #fff;
+}
+
+/* Masthead */
+.toi-title {
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.toi-subtitle {
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+/* Headlines */
+.headline-lg {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.headline-sm {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.headline-xs {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* News Text */
+.news-text {
+  font-size: 14px;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+/* Advertisement */
+.ad-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  background: #f8f8f8;
+}
+
+.ad-text {
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #666;
+}
+
+.card-title {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+  text-align: justify;
+  line-height: 1.4;
+}
